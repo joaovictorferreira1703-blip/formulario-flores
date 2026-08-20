@@ -1,0 +1,9 @@
+header {
+    background-color: #09b1ef;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
